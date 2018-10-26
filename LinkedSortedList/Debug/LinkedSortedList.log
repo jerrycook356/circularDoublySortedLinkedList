@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jerry\source\repos\linkedsortedlist\linkedsortedlist\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LinkedSortedList.vcxproj -> C:\Users\jerry\source\repos\LinkedSortedList\Debug\LinkedSortedList.exe
+  LinkedSortedList.vcxproj -> C:\Users\jerry\source\repos\LinkedSortedList\Debug\LinkedSortedList.pdb (Full PDB)
